@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CdeCPy '17 - misc</title><link href="https://beangoben.github.io/energia_futuro_py/" rel="alternate"></link><link href="https://beangoben.github.io/energia_futuro_py/feeds/misc.atom.xml" rel="self"></link><id>https://beangoben.github.io/energia_futuro_py/</id><updated>2050-12-13T00:00:00+01:00</updated><entry><title>Main</title><link href="https://beangoben.github.io/energia_futuro_py/main.html" rel="alternate"></link><published>2050-12-13T00:00:00+01:00</published><updated>2050-12-13T00:00:00+01:00</updated><author><name>Ben</name></author><id>tag:beangoben.github.io,2050-12-13:/energia_futuro_py/main.html</id><summary type="html">&lt;h1&gt;H1&lt;/h1&gt;
-&lt;p&gt;hols&lt;/p&gt;
-&lt;h2&gt;h2&lt;/h2&gt;
-&lt;p&gt;hols&lt;/p&gt;
-&lt;h3&gt;h3&lt;/h3&gt;
-&lt;p&gt;hols&lt;/p&gt;
-&lt;h4&gt;h4&lt;/h4&gt;
-&lt;p&gt;hols&lt;/p&gt;</summary><content type="html">&lt;h1&gt;H1&lt;/h1&gt;
-&lt;p&gt;hols&lt;/p&gt;
-&lt;h2&gt;h2&lt;/h2&gt;
-&lt;p&gt;hols&lt;/p&gt;
-&lt;h3&gt;h3&lt;/h3&gt;
-&lt;p&gt;hols&lt;/p&gt;
-&lt;h4&gt;h4&lt;/h4&gt;
-&lt;p&gt;hols&lt;/p&gt;</content></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CdeCPy '17 - misc</title><link href="https://beangoben.github.io/energia_futuro_py/" rel="alternate"></link><link href="https://beangoben.github.io/energia_futuro_py/feeds/misc.atom.xml" rel="self"></link><id>https://beangoben.github.io/energia_futuro_py/</id><updated>2050-12-13T00:00:00+01:00</updated><entry><title>Main</title><link href="https://beangoben.github.io/energia_futuro_py/main.html" rel="alternate"></link><published>2050-12-13T00:00:00+01:00</published><updated>2050-12-13T00:00:00+01:00</updated><author><name>Ben</name></author><id>tag:beangoben.github.io,2050-12-13:/energia_futuro_py/main.html</id><summary type="html">&lt;h1&gt;Bienvenidos al Club!&lt;/h1&gt;
+&lt;h2&gt;Filosofía del curso&lt;/h2&gt;
+&lt;p&gt;La energía va ser uno de los mayores retos para el mundo en el siglo 21. Abastecer suficiente energía para una población creciente mientras intentamos mitigar el cambio climático va a requerir gente capacitada en todos los rubros:  ciencia y tecnología, economía, sociedad, educación …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Bienvenidos al Club!&lt;/h1&gt;
+&lt;h2&gt;Filosofía del curso&lt;/h2&gt;
+&lt;p&gt;La energía va ser uno de los mayores retos para el mundo en el siglo 21. Abastecer suficiente energía para una población creciente mientras intentamos mitigar el cambio climático va a requerir gente capacitada en todos los rubros:  ciencia y tecnología, economía, sociedad, educación y política.
+Necesitamos gente capaz que pueda entender todo este panorama. Con este espíritu diseñamos este curso. Hay múltiples maneras de resolver este reto.&lt;/p&gt;
+&lt;h2&gt;Instructores&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Benjamin Sanchez Lengeling, estudiante de Doctorado en el Departamento de Química de Harvard University. Miembro del consorcio de Energía y el Medio Ambiente de Harvard. En sus ratos libres le gusta ir a correr por el rió Charles, ver películas y comer nieve.&lt;/li&gt;
+&lt;li&gt;Majo Martinez Piñanez, estudiante de Maestría Masters en Energía y Recursos de la Tierra en el Enviromental Science Institute de The University of Texas at Austin.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Paraguay y Energía&lt;/h2&gt;
+&lt;p&gt;Paraguay tiene un posición única en latinoamérica y en el mundo, casi el 100% de sus electricidad proviene de hidroeléctricas, fuentes renovables y limpias de energía. Además es uno de los mayores exportadores de energía, exportando cerca del 90% de su energía a países vecinos.&lt;/p&gt;
+&lt;p&gt;Además cada habitante genera cerca de 0.8 toneladas de $CO_2$ anualmente, de las más bajas en latinoamérica.&lt;/p&gt;
+&lt;p&gt;Aun así, tiene varios retos para el futuro:
+&lt;em&gt; Actualmente hay mucha deforestación por el uso de biomasa como uso de energía (ineficiencia del 90-95%)
+&lt;/em&gt; Sistema actual de transmisión y distribución presenta muchas pérdidas.
+&lt;em&gt; Llevar energía al 100% de la población.
+&lt;/em&gt; Adoptar biocombustibles para no depender de importación de petróleo.
+* Llegar a emisiones negativas de carbono.&lt;/p&gt;
+&lt;p&gt;Qué planes puede tomar Paraguay para llegar a estas metas?&lt;/p&gt;
+&lt;h2&gt;Temas del curso&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dia 1:&lt;/strong&gt; Introducción, cambio climático, energía solar, acordes globales (Copenhagen, Paris), metas y escenarios (2DS,4DS,6DS).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia 2:&lt;/strong&gt; Construir una celda solar a base de tintes! (DSSC), la física de celdas solares, introducción a programación con python, exploración de moléculas con química cuántica.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia 3:&lt;/strong&gt; El coste de energía (LCOE), comparado diferentes tipos de energía, el panorama de Paraguay. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia 4:&lt;/strong&gt; Presentaciones de temas diversos por estudiantes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia 5:&lt;/strong&gt; Emprendimiento científico, construcción de proyecciones Paraguay 2050.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dia 6:&lt;/strong&gt; Presentación oral + posters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Reporte y presentación&lt;/h2&gt;
+&lt;p&gt;Habrá equipos de dos personas encargados en hacer investigación para preparar un reporte de dos páginas (~1000 palabras) y un presentación oral de 7 minutos.&lt;/p&gt;
+&lt;p&gt;Los temas estan relacionado con areas que identifico la &lt;a href="https://www.iea.org/"&gt;IEA (International Energy Agency)&lt;/a&gt; como crucial para poder alcanzar las metas de dos grado centigrados de calentamiento (2DS), con un enfoque en Paraguay:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="images/2DS_tech.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;p&gt;La mayoría de las ligas estan en ingles, perdon, pero asi es el internet.&lt;/p&gt;
+&lt;h4&gt;Cambio climático&lt;/h4&gt;
+&lt;p&gt;Hay &lt;strong&gt;muchisimas&lt;/strong&gt; fuentes de información.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;"The climate change consensus extends beyond climate scientists"&lt;/strong&gt;, &lt;a href="http://iopscience.iop.org/article/10.1088/1748-9326/10/9/094025"&gt;http://iopscience.iop.org/article/10.1088/1748-9326/10/9/094025&lt;/a&gt;, estudio que revisa el consenso cientifoc atravez de varias disiplinas con respecto al cambio climatico.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Before the flood"&lt;/strong&gt;, &lt;a href="https://www.beforetheflood.com/"&gt;https://www.beforetheflood.com/&lt;/a&gt;, documental reciente.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Curso EdX (MOOC)&lt;/strong&gt; sobre el 'debate' y controversia detras del tema: &lt;a href="https://www.edx.org/course/making-sense-climate-science-denial-uqx-denial101x-2"&gt;https://www.edx.org/course/making-sense-climate-science-denial-uqx-denial101x-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Review of the consensus and asymmetric quality of
+research on human-induced climate change"&lt;/strong&gt;, &lt;a href="https://mahb.stanford.edu/wp-content/uploads/2014/05/2014_Abraham-et-al.-Climate-consensus.pdf"&gt;https://mahb.stanford.edu/wp-content/uploads/2014/05/2014_Abraham-et-al.-Climate-consensus.pdf&lt;/a&gt;, articulo revisando la investigación que niega el cambio climático.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;"Learning from mistakes in climate research"&lt;/strong&gt;, &lt;a href="http://link.springer.com/article/10.1007%2Fs00704-015-1597-5"&gt;http://link.springer.com/article/10.1007%2Fs00704-015-1597-5&lt;/a&gt;, articulo que habla sobre los problemas mas comunes en teorías y modelos expuesto por científicos que niegan el cambio climático.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Celdas solares (DSSC)&lt;/h4&gt;
+&lt;h4&gt;Programación con Python&lt;/h4&gt;
+&lt;h4&gt;Química cuántica&lt;/h4&gt;
+&lt;h4&gt;Energía solar&lt;/h4&gt;
+&lt;h4&gt;LCOE&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Calculadora de LCOE : &lt;a href="http://www.nrel.gov/analysis/tech_lcoe.html"&gt;http://www.nrel.gov/analysis/tech_lcoe.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Explicación sencilla de LCOE : &lt;a href="http://www.nrel.gov/analysis/tech_lcoe_documentation.html"&gt;http://www.nrel.gov/analysis/tech_lcoe_documentation.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content></entry></feed>
